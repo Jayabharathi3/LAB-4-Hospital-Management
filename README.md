@@ -30,7 +30,6 @@ This application provides a way to record this information and to access these i
 
 
 ### PACKAGE DIAGRAM
-![image](https://github.com/Jayabharathi3/LAB-4-Hospital-Management/assets/120367796/ada56b93-d29a-4a71-86ab-c18c7359a8ab)
 ![image](https://github.com/Jayabharathi3/LAB-4-Hospital-Management/assets/120367796/143ab4eb-24d0-46ce-a413-12bc45f125c9)
 
 
